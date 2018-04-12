@@ -7,6 +7,7 @@
  */
 
 function Hello($message){
+    // Different comment
     echo $message;
 }
 
