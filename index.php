@@ -7,7 +7,8 @@
  */
 
 function Hello($message){
-    echo $message;
+   // Print a message
+ echo $message;
 }
 
 $message = "Hello, people!";
