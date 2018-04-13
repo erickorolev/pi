@@ -7,10 +7,14 @@
  */
 
 function Hello($message){
-    // Another comment
-    // Different comment
-    //Print a message
+    // No longer need comment here
     echo $message;
 }
 
-$message = "Hello, people!";
+function Hello_name($message, $name){
+    // No longer need comment here
+    echo $message, $name;
+}
+
+$message = "Hello!";
+$name = "Nick";
