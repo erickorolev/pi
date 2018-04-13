@@ -7,8 +7,9 @@
  */
 
 function Hello($message){
-// Different comment
-// Print a message
+    // Another comment
+    // Different comment
+    //Print a message
     echo $message;
 }
 
